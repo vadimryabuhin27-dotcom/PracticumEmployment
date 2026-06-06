@@ -24,7 +24,7 @@
 
 ---
 
-### 📫 Контакты
+### Контакты
 
 * **Telegram:** [https://t.me/bashkkaa]
 * **Email:** [vadimryabuhin27@gmail.com]
